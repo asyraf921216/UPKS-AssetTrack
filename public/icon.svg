@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#0B192C"/>
+  <rect x="40" y="40" width="432" height="432" rx="64" fill="#0F2942" stroke="#0D9488" stroke-width="8"/>
+  
+  <!-- Outer QR Corner Target Top Left -->
+  <rect x="96" y="96" width="104" height="104" rx="20" fill="none" stroke="#2DD4BF" stroke-width="18"/>
+  <rect x="128" y="128" width="40" height="40" rx="8" fill="#2DD4BF"/>
+  
+  <!-- Outer QR Corner Target Top Right -->
+  <rect x="312" y="96" width="104" height="104" rx="20" fill="none" stroke="#2DD4BF" stroke-width="18"/>
+  <rect x="344" y="128" width="40" height="40" rx="8" fill="#2DD4BF"/>
+  
+  <!-- Outer QR Corner Target Bottom Left -->
+  <rect x="96" y="312" width="104" height="104" rx="20" fill="none" stroke="#2DD4BF" stroke-width="18"/>
+  <rect x="128" y="344" width="40" height="40" rx="8" fill="#2DD4BF"/>
+  
+  <!-- Center Lab Flask / Shield Silhouette -->
+  <path d="M236 170 h40 v45 l48 75 c12 18 0 42 -22 42 h-92 c-22 0 -34 -24 -22 -42 l48 -75 v-45 z" fill="#14B8A6"/>
+  <circle cx="256" cy="285" r="14" fill="#0B192C"/>
+  <circle cx="280" cy="305" r="8" fill="#0B192C"/>
+
+  <!-- QR Bits / Pixels -->
+  <rect x="236" y="96" width="40" height="40" rx="8" fill="#38BDF8"/>
+  <rect x="312" y="240" width="40" height="40" rx="8" fill="#38BDF8"/>
+  <rect x="376" y="240" width="40" height="40" rx="8" fill="#2DD4BF"/>
+  <rect x="312" y="312" width="40" height="40" rx="8" fill="#2DD4BF"/>
+  <rect x="376" y="376" width="40" height="40" rx="8" fill="#38BDF8"/>
+  <rect x="236" y="376" width="40" height="40" rx="8" fill="#2DD4BF"/>
+
+  <!-- UPKS Branding bottom banner -->
+  <rect x="176" y="420" width="160" height="32" rx="8" fill="#0D9488"/>
+  <text x="256" y="442" fill="#FFFFFF" font-family="monospace, sans-serif" font-size="18" font-weight="900" text-anchor="middle" letter-spacing="2">UPKS</text>
+</svg>
